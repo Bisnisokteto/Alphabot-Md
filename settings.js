@@ -27,7 +27,7 @@ global.language = english  //change indonesia to english if you don't understand
 // Other
 // Other
 global.botname = "FanxxzBOT" //namabot kalian
-global.ownername= "DikaaOfc" //nama kalian
+global.ownername= "𝕹𝖆𝖎𝖓 𝕹𝖆𝖉𝖎𝖐𝖆" //nama kalian
 global.myweb = "https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/DikaaOfc" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv" //bebas
