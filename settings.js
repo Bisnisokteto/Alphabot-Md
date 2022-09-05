@@ -26,24 +26,24 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 // Other
-global.botname = "FanxxzBOT" //namabot kalian
-global.ownername= "𝕹𝖆𝖎𝖓 𝕹𝖆𝖉𝖎𝖐𝖆" //nama kalian
+global.botname = "Alphabot-Mdོ" //namabot kalian
+global.ownername= "Ryann-MD" //nama kalian
 global.myweb = "https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/DikaaOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/NainnOfc" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv" //bebas
-global.email = "nainnadika6@gmail.com" //bebas
+global.email = "botwhatsaapmd@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6288223674569'] //premium user
-global.owner = ["6288223674569","6283142211902"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6288223674569" // nomor wa kalian
-global.ownernomerr = "+6288223674569" //nmr wa kalian
+global.premium = ['6289631848805'] //premium user
+global.owner = ["6289631848805","6288223674569"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289631848805" // nomor wa kalian
+global.ownernomerr = "+6289631848805" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/lol.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© FanxxzBOT' //sticker wm ubah
-global.author = 'Di Buat Oleh DikaaOfc' //sticker wm ganti nama kalian
+global.packname = '© Alphabot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Ryann X DikaaOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
